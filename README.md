@@ -1,6 +1,7 @@
-# NetBeans-Connector-V3
+# NetBeans Connector V2 (original)
 
-Updated version of NetBeans Connector for [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3)
+Version: 1.1.5_0
+Path: `.../hafdlehgocfcodbgjnpecfajgkeejnaa/1.1.5_0`
 
 ## Original information:
 The NetBeans Connector provides deep integration between the award winning NetBeans IDE and the Google Chrome browser.
